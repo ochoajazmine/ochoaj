@@ -6,3 +6,12 @@ body{
 nav a {
     color:aqua;
 }
+ img{
+    width:300px;
+     height: auto;
+}
+
+h1{
+    border:1px solid black;
+    border-width:3px;
+}
